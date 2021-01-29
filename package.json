@@ -1,0 +1,19 @@
+{
+  "name": "backupCloudant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudant/cloudant": "^4.3.0",
+    "body-parser": "^1.19.0",
+    "cloudant-quickstart": "^1.25.5",
+    "connect-multiparty": "^2.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
